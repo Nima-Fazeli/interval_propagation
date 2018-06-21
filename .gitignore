@@ -1,3 +1,6 @@
 src/venv
 .avi
 .mp4
+src/.idea
+.DS_Store
+.pyc
