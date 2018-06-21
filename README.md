@@ -5,7 +5,7 @@ Code to propagate intervals of parameters and states through contact models.
 
 Run the following code:
 
-```python
+```
 cd src/
 python main.py --simulate
 ```
